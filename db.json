@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "firstName": "premier",
+      "lastName": "employé",
+      "email": "first@gmail.com",
+      "mobile": "99112233",
+      "salary": "50008"
+    },
+    {
+      "id": "2",
+      "firstName": "amen",
+      "lastName": "ameri",
+      "email": "sdcsdc@dcsc",
+      "mobile": "34545435",
+      "salary": "435"
+    },
+    {
+      "id": "3",
+      "firstName": "amen",
+      "lastName": "ameri",
+      "email": "sdcsdc@dcsc",
+      "mobile": "34545435",
+      "salary": "435"
+    },
+    {
+      "id": 5,
+      "firstName": "amen",
+      "lastName": "ameri",
+      "email": "esta3969d@gmail.com",
+      "mobile": "22334555",
+      "salary": "4444"
+    },
+    {
+      "id": 6,
+      "firstName": "hjjhhj",
+      "lastName": "kjsdnc",
+      "email": "esta3969d@gmail.com",
+      "mobile": "jnkadjcb",
+      "salary": "234"
+    },
+    {
+      "id": 7,
+      "firstName": "amam",
+      "lastName": "ameri",
+      "email": "25371430",
+      "mobile": "jnkadjcb",
+      "salary": "jdskc"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "departmentName": "bgjh"
+    },
+    {
+      "id": 2,
+      "departmentName": "khj"
+    },
+    {
+      "id": 3,
+      "departmentName": "amen"
+    },
+    {
+      "id": 4,
+      "departmentName": "fghh"
+    },
+    {
+      "id": 5,
+      "departmentName": "bjjjjjjjjjjjjjjjjjjjjjj"
+    }
+  ]
+}
